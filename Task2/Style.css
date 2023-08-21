@@ -1,0 +1,14 @@
+/* style="display: flex; justify-content: space-between" */
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.div1{
+    background-color: aqua;
+    height: 100%;
+}
+.div2{
+    background-color: blue;
+    height: 100%;
+
+}
