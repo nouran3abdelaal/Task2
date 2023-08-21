@@ -1,5 +1,4 @@
-
-let counter = 4;
+var counter = 4;
 const imageUrl = "images/home.png";
 
 document.addEventListener("DOMContentLoaded", function () {
